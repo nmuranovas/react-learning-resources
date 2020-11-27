@@ -1,7 +1,7 @@
 # React Learning Resources
 
 Documentation:
-* [React Official Page](https://reactjs.org/docs)
+* [Official React Docs](https://reactjs.org/docs)
 
 Conference videos:
 * [React Amsterdam 2019 Conference](https://www.youtube.com/watch?v=tO8qHlr6Wqg&list=PLNBNS7NRGKMHLTeH4qfD3F320GXfj97kc)
@@ -18,3 +18,10 @@ Books:
 
 Articles:
 * [The React Developer's Quest for Productivity by KendoReact Team](https://www.telerik.com/kendo-react-ui/react-best-practices-and-productivity-tips/)
+* [React Interview Questions for Senior Developers](https://itnext.io/reactjs-interview-questions-for-senior-developers-64618f6a0aca)
+
+Guides:
+* [Hook recipes](https://usehooks.com/)
+
+Other learning Resources:
+* [React Resources](https://reactresources.com/)
