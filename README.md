@@ -25,3 +25,4 @@ Guides:
 
 Other learning Resources:
 * [React Resources](https://reactresources.com/)
+* [Static Website Hosting](https://surge.sh/)
