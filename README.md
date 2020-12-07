@@ -25,3 +25,6 @@ Guides:
 
 Other learning Resources:
 * [React Resources](https://reactresources.com/)
+
+UI Libraries:
+* [Base Web](https://baseweb.design/)
