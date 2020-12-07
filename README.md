@@ -25,6 +25,7 @@ Guides:
 
 Other learning Resources:
 * [React Resources](https://reactresources.com/)
+* [egghead.io](https://egghead.io/)
 
 UI Libraries:
 * [Base Web](https://baseweb.design/)
