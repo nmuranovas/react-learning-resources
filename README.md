@@ -30,3 +30,6 @@ Other learning Resources:
 UI Libraries:
 * [Base Web](https://baseweb.design/)
 * [Ant Design](https://ant.design/)
+
+Other:
+* [Lighthouse (Website analysis tool)](https://developers.google.com/web/tools/lighthouse/)
