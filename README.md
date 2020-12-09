@@ -8,6 +8,7 @@ Conference videos:
 * [ReactEurope 2019 - Day 1](https://www.youtube.com/watch?v=u_0ZMiQZr0k&list=PLCC436JpVnK3kcTnPyhcs7QnHK2PKl33D)
 * [React Conf 2019](https://www.youtube.com/watch?list=PLPxbbTqCLbGHPxZpw4xj_Wwg8-fdNxJRh&v=QnZHO7QvjaM)
 * [React Conf 2018](https://www.youtube.com/watch?list=PLPxbbTqCLbGE5AihOSExAa4wUM-P42EIJ&v=V-QO-KO90iQ)
+* [React Rally 2019](https://www.youtube.com/watch?v=XD8UQeYm5Vk&list=PLUD4kD-wL_zaXhR4KU1CkUSIzh1TrvnzA)
 
 Productivity:
 * [Tools used by Kent C. Dodds](https://kentcdodds.com/uses/)
@@ -16,9 +17,15 @@ Books:
 * [You Don't Know JS by Kyle Simpson](https://github.com/getify/You-Dont-Know-JS)
 * [Eloquent Javascript by Marijn Haverbeke](https://eloquentjavascript.net/)
 
+Frameworks:
+* [Gatsby](https://www.gatsbyjs.com/tutorial/seo-and-social-sharing-cards-tutorial/)
+
 Articles:
 * [The React Developer's Quest for Productivity by KendoReact Team](https://www.telerik.com/kendo-react-ui/react-best-practices-and-productivity-tips/)
 * [React Interview Questions for Senior Developers](https://itnext.io/reactjs-interview-questions-for-senior-developers-64618f6a0aca)
+
+Paid Courses:
+* [Testing Javascript (including React)](https://testingjavascript.com/)
 
 Guides:
 * [Hook recipes](https://usehooks.com/)
